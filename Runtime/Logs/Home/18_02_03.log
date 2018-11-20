@@ -1,0 +1,154 @@
+[ 2018-02-03T18:31:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Common\Controller\HomeBaseController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) G:\li\hero\hero\php\trunk\app_admin\Application\Common\Controller\HomeBaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\630a789bf34bc51f2be029e970a6b0ee.php 第 19 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-03T18:31:28+08:00 ] 127.0.0.1 /index.php/Home/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-02-03T18:31:35+08:00 ] 127.0.0.1 /index.php/Home/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `admin_users` [ RunTime:0.0230s ]
+SQL: UPDATE `admin_users` SET `last_login_time`='1517653894' WHERE `id` = 0 [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `admin_user_log` [ RunTime:0.0180s ]
+SQL: INSERT INTO `admin_user_log` (`uid`,`user`,`target`,`remark`,`content`,`controller`,`action`,`time`) VALUES ('0','root','127.0.0.1','XXXX内网IP内网IP内网IP','登录成功','Public','login','1517653895') [ RunTime:0.2330s ]
+
+[ 2018-02-03T18:31:35+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Common\Controller\HomeBaseController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) G:\li\hero\hero\php\trunk\app_admin\Application\Common\Controller\HomeBaseController.class.php 第 7 行.
+NOTIC: [2048] Declaration of Common\Model\AdminNavModel::getTreeData() should be compatible with Common\Model\BaseModel::getTreeData($type = 'tree', $order = '', $name = 'name', $child = 'id', $parent = 'pid') G:\li\hero\hero\php\trunk\app_admin\Application\Common\Model\AdminNavModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin_admin_nav` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `admin_admin_nav` ORDER BY order_number is null,`order_number`,`id`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-02-03T18:31:35+08:00 ] 127.0.0.1 /index.php/Home/Index/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Common\Controller\HomeBaseController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) G:\li\hero\hero\php\trunk\app_admin\Application\Common\Controller\HomeBaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+SQL: select version() as v; [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-02-03T18:31:46+08:00 ] 127.0.0.1 /index.php/Home/Server/mongodb.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Common\Controller\HomeBaseController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) G:\li\hero\hero\php\trunk\app_admin\Application\Common\Controller\HomeBaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-02-03T18:31:48+08:00 ] 127.0.0.1 /index.php/Home/Server/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Common\Controller\HomeBaseController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) G:\li\hero\hero\php\trunk\app_admin\Application\Common\Controller\HomeBaseController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 0 G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 55 行.
+NOTIC: [8] Undefined offset: 68 G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 62 行.
+NOTIC: [8] Undefined offset: 80 G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 62 行.
+NOTIC: [8] Undefined offset: 70 G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 62 行.
+NOTIC: [8] Undefined index: merge_time G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 65 行.
+NOTIC: [8] Undefined offset: 78 G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 62 行.
+NOTIC: [8] Undefined offset: 83 G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 62 行.
+NOTIC: [8] Undefined index: merge_time G:\li\hero\hero\php\trunk\app_admin\Runtime\Cache\Home\a73478e52b0697cb2f6150af3b2009a2.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

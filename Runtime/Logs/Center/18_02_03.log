@@ -1,0 +1,142 @@
+[ 2018-02-03T18:32:53+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:33:10+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:33:26+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:34:22+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:35:08+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:35:11+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:35:11+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:35:12+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:36:34+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:36:58+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-02-03T18:37:18+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-02-03T18:37:28+08:00 ] 127.0.0.1 /index.php/center/deploy/process
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [4096] Argument 2 passed to check_ip_allow() must be of the type array, null given, called in G:\li\hero\hero\php\trunk\app_admin\Application\Center\Controller\DeployController.class.php on line 26 and defined G:\li\hero\hero\php\trunk\app_admin\Application\Common\Common\function.php 第 1473 行.
+
+[ 2018-02-03T18:41:34+08:00 ] 127.0.0.1 /index.php/center/deploy/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-02-03T18:45:45+08:00 ] 127.0.0.1 /index.php/center/deploy/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
